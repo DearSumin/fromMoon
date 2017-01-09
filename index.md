@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# 2017년 1월 10일에 쓰는 편지.
 
-You can use the [editor on GitHub](https://github.com/DearSumin/fromMoon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 안녕!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+히히 신기하지? 우리 둘만을 위한 사이트가 생겼어. 아직은 내 실력이 서툴어서 사이트가 엉망이지만 시간이 지나면 점점 이뻐질거야!
 
-### Markdown
+우리만 들어올수 있게 비밀번호도 걸어놓을 거구.
+ 
+무튼 여기다가 편지를 쓰면 이제 여보 부모님이 읽으실 걱정도 안하고..여보가 언제 어디서든 들어와서 내가 예전에 썼던 편지들 다시 읽어볼수도 있고 매우매우 좋을거 같아!!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 여보! 오늘은 우리가 **490** 일째 되는 날이래...시간 엄청 빠르지!!(퉁격)
 
-```markdown
-Syntax highlighted code block
+우린 맨날 사귄 날짜 말하면서 놀랜다? 킼ㅋ
 
-# Header 1
-## Header 2
-### Header 3
+음..여보 사실 내가 요즘 고민이 있어.
 
-- Bulleted
-- List
+과연 나는 여보한테 좋은 남자친구인가..라는 생각이 들어
 
-1. Numbered
-2. List
+갑자기 분위기 진지해져서 미안해ㅋㅋㅋㅋ
 
-**Bold** and _Italic_ and `Code` text
+"당연히 좋은 남자친구지!" 같은 대답을 듣길 원해서 하는 그런 답정너 같은건 아니야.
 
-[Link](url) and ![Image](src)
-```
+나는 정말 객관적으로 여보에게 좋은 친구이자 애인이 되고 싶어.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+최근에 꽤 여러번 시도때도 없이 힝했던 적이 있었고 여보의 기분을 상하게 만든적도 많았던거 같아..
 
-### Jekyll Themes
+언제부턴가 여보 앞에서 나는 한없이 어려졌어.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DearSumin/fromMoon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+징징대고 울고 애교부리는 것 같은 남들한테는 절대 보여주지 않는 모습들을 여보에게는 다 드러냈지
 
-### Support or Contact
+바보같이 그렇게 내 애정을 표현했던거 같아.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+근데 이게 이제 어디서부터 버릇이 잘못됐는지....툭하면 입 삐쭉 나오고...아주 그냥..
+
